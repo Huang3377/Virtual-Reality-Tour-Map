@@ -1,0 +1,223 @@
+[
+  {
+    "RestaurantName": "五館前門圖書館",
+    "Description": "五館前門圖書館",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26775,
+      "PositionLat": 24.97019
+    }
+  },
+  {
+    "RestaurantName": "五館後門",
+    "Description": "五館後門",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26850,
+      "PositionLat": 24.97033
+    }
+  },
+  {
+    "RestaurantName": "六館前門",
+    "Description": "六館前門",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26744,
+      "PositionLat": 24.97071
+    }
+  },
+  {
+    "RestaurantName": "六館後門",
+    "Description": "六館後門",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26779,
+      "PositionLat": 24.97086
+    }
+  },
+  {
+    "RestaurantName": "二館後門",
+    "Description": "二館後門",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26872,
+      "PositionLat": 24.96930
+    }
+  },
+  {
+    "RestaurantName": "二館前門",
+    "Description": "二館前門",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26778,
+      "PositionLat": 24.96931
+    }
+  },
+  {
+    "RestaurantName": "三館後門",
+    "Description": "三館後門",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26639,
+      "PositionLat": 24.96936
+    }
+  },
+  {
+    "RestaurantName": "三館前門",
+    "Description": "三館前門",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26705,
+      "PositionLat": 24.96927
+    }
+  },
+  {
+    "RestaurantName": "七館後門",
+    "Description": "七館後門",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26632,
+      "PositionLat": 24.96881
+    }
+  },
+  {
+    "RestaurantName": "七館前門",
+    "Description": "七館前門",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26712,
+      "PositionLat": 24.96875
+    }
+  },
+  {
+    "RestaurantName": "全家便利商店",
+    "Description": "中壢元大一店",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-18:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.2679686918183,
+      "PositionLat": 24.965711472355686
+    }
+  },
+  {
+    "RestaurantName": "天河書屋",
+    "Description": "賣文具又賣小點的可愛書店",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "08:00-17:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26780239485151,
+      "PositionLat": 24.966363135359693
+    }
+  },
+  {
+    "RestaurantName": "仙桃總鋪",
+    "Description": "好吃cp值又高的便當店",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800",
+    "OpenTime": "11:00-21:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26819399735298,
+      "PositionLat": 24.965711472355686
+    }
+  },
+  {
+    "RestaurantName": "元智大學健康休閒中心",
+    "Description": "設備很新很漂亮的運動中心",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800#2951",
+    "OpenTime": "07:00-21:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.2683728850264,
+      "PositionLat": 24.966308400294185
+    }
+  },
+  {
+    "RestaurantName": "元智大學操場",
+    "Description": "很大的操場",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800#2951",
+    "OpenTime": "24小時",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26879228314178,
+      "PositionLat": 24.9672399845507
+    }
+  },
+  {
+    "RestaurantName": "全家便利商店",
+    "Description": "中壢元大二店",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800#2951",
+    "OpenTime": "08:00-21:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26853290129071,
+      "PositionLat": 24.970439703012765
+    }
+  },
+  {
+    "RestaurantName": "Cogliari卡利亞里",
+    "Description": "早餐店",
+    "Address": "桃園市中壢區遠東路135號",
+    "ZipCode": "320",
+    "Phone": "+886-034638800#2951",
+    "OpenTime": "09:00-19:00",
+    "Picture": "R.drawble.im01",
+    "Position": {
+      "PositionLon": 121.26784569932926,
+      "PositionLat": 24.96901464340789
+    }
+  }
+]
